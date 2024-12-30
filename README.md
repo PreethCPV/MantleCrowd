@@ -10,6 +10,8 @@
 
 **Crowd Mantle** is a blockchain-powered crowdfunding platform designed to democratize fundraising. By leveraging the power of decentralized technology, it ensures transparency, accountability, and security in project funding.
 
+***The Smart Contract powering Crowd Mantle was meticulously crafted by **DevDock AI**, a specialized tool for creating secure and reliable smart contracts. This pre-written, verified contract ensures seamless functionality and robust security, making our project a perfect fit for the DevDock track. This expertly crafted contract underscores our commitment to secure and efficient blockchain solutions.***
+
 ---
 
 ## 🚀 **Deployment**
@@ -70,7 +72,7 @@ Click here to watch the video - [https://youtu.be/BL9jJr47buE](https://youtu.be/
 ## ⚙️ **Technologies Used**
 
 - **Blockchain**: Mantle Sepolia Testnet
-- **Smart Contracts**: Solidity
+- **Smart Contracts**: Solidity (Provided by DevDock AI)
 - **Frontend**: Next.js, CSS
 - **Deployment**: Vercel
 
